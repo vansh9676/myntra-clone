@@ -1,126 +1,146 @@
-🛍️ Myntra Clone - React Native App
+# 🛍️ Myntra Clone - React Native App
 
-A Myntra-inspired eCommerce mobile application built using React Native.
-This project replicates the core UI and basic functionality of the Myntra shopping app, including product browsing, categories, product details, and cart functionality.
+A **Myntra-inspired eCommerce mobile application** built using **React Native**.
+This project replicates the core UI and basic functionality of the Myntra shopping app such as browsing products, viewing product details, and adding items to the cart.
 
-This project was created for learning mobile app development and UI replication using React Native.
+The goal of this project is to practice **mobile app development using React Native** and understand how modern eCommerce applications are structured.
 
-📱 Screenshots
+---
 
-Add your app screenshots here.
+## 📱 Screenshots
 
-/screenshots/home.png
-/screenshots/product.png
-/screenshots/cart.png
+Add screenshots of your app in a folder named `screenshots`.
 
 Example:
 
-Home Screen	Product Page	Cart
-Screenshot	Screenshot	Screenshot
-✨ Features
+```
+screenshots/home.png
+screenshots/product.png
+screenshots/cart.png
+```
 
-🛒 Browse fashion products
+You can display them like this:
 
-🔍 Search functionality
+| Home Screen | Product Screen | Cart Screen |
+| ----------- | -------------- | ----------- |
+| Screenshot  | Screenshot     | Screenshot  |
 
-📂 Category-based product listing
+---
 
-👕 Product detail page
+## ✨ Features
 
-❤️ Add to wishlist
+* 🛍️ Browse fashion products
+* 📂 Category-based product listing
+* 🔍 Search products
+* 👕 Product detail page
+* ❤️ Wishlist functionality
+* 🛒 Add to cart
+* 📱 Clean and responsive mobile UI
+* ⚡ Smooth screen navigation
 
-🛍️ Add to cart
+---
 
-📱 Responsive mobile UI
+## 🛠️ Tech Stack
 
-⚡ Smooth navigation between screens
+* **React Native**
+* **JavaScript (ES6)**
+* **React Navigation**
+* **Axios / Fetch API**
+* **Functional Components & React Hooks**
 
-🛠️ Tech Stack
+---
 
-React Native
+## 📂 Project Structure
 
-JavaScript / ES6
-
-React Navigation
-
-Redux / Context API (if used)
-
-Axios / Fetch API (if used)
-
-📂 Project Structure
-MyntraClone
+```
+myntra-clone
 │
 ├── assets
-│   ├── images
+│   └── images
 │
 ├── components
 │   ├── ProductCard.js
-│   ├── Header.js
+│   └── Header.js
 │
 ├── screens
 │   ├── HomeScreen.js
 │   ├── ProductScreen.js
-│   ├── CartScreen.js
+│   └── CartScreen.js
 │
 ├── navigation
-│   ├── AppNavigator.js
+│   └── AppNavigator.js
 │
 ├── App.js
 └── package.json
-⚙️ Installation
+```
+
+---
+
+## ⚙️ Installation
 
 Clone the repository
 
-git clone https://github.com/yourusername/myntra-clone-reactnative.git
+```
+git clone https://github.com/vansh9676/myntra-clone.git
+```
 
-Go to project directory
+Go to the project directory
 
-cd myntra-clone-reactnative
+```
+cd myntra-clone
+```
 
 Install dependencies
 
+```
 npm install
+```
 
 Run the project
 
+```
 npx react-native run-android
+```
 
-or
+or start the development server
 
+```
 npm start
-🎯 Purpose of the Project
+```
 
-This project was built to:
+---
 
-Practice React Native mobile development
+## 🎯 Purpose of the Project
 
-Learn UI cloning from real-world apps
+This project was created to:
 
-Understand navigation and component structure
+* Practice **React Native mobile development**
+* Learn **real-world UI cloning**
+* Understand **mobile navigation and component structure**
+* Improve **mobile application design skills**
 
-Improve mobile app design skills
+---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
-User authentication
+* User authentication (Login / Signup)
+* Backend integration
+* Payment gateway integration
+* Real product API
+* Order history
+* Push notifications
 
-Payment integration
+---
 
-Real product API integration
+## 👨‍💻 Author
 
-Order history
+**Vansh**
 
-Backend integration
+GitHub:
+https://github.com/vansh9676
 
-👨‍💻 Author
+---
 
-Vansh
-Frontend Developer | React | React Native
+## ⭐ Support
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: Add your LinkedIn here
-
-⭐ Support
-
-If you like this project, give it a ⭐ on GitHub.
+If you like this project, please consider **giving it a star on GitHub** ⭐
