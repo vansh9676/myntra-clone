@@ -7,23 +7,6 @@ The goal of this project is to practice **mobile app development using React Nat
 
 ---
 
-## 📱 Screenshots
-
-Add screenshots of your app in a folder named `screenshots`.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/product.png
-screenshots/cart.png
-```
-
-You can display them like this:
-
-| Home Screen | Product Screen | Cart Screen |
-| ----------- | -------------- | ----------- |
-| Screenshot  | Screenshot     | Screenshot  |
 
 ---
 
